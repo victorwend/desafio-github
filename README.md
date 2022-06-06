@@ -1,2 +1,2 @@
-# desafio-GitHub da bootcamp Santader
+# desafio-GitHub do bootcamp Santader
 Desafio de projeto sobre Git/GitHub
